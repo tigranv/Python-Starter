@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>83a87982-57fb-45ca-a221-d257db3e3744</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>data_types.py</StartupFile>
+    <StartupFile>print_input_exampl.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,19 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="arithmatic_operations.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="data_types.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dynamic_typing.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="print_input_exampl.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="working_with_strings.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

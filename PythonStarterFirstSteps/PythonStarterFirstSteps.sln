@@ -9,6 +9,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ConditionalOperations", "Co
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LoopStatements", "LoopStatements\LoopStatements.pyproj", "{30C21D49-1D7C-4DAD-B5D5-C89D5387D3CA}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Functions", "Functions\Functions.pyproj", "{BC393842-709B-42B4-A3CB-CD675560D772}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 		{08A5CC4D-B39D-463C-9C37-B0A6891FC1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30C21D49-1D7C-4DAD-B5D5-C89D5387D3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{30C21D49-1D7C-4DAD-B5D5-C89D5387D3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC393842-709B-42B4-A3CB-CD675560D772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC393842-709B-42B4-A3CB-CD675560D772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

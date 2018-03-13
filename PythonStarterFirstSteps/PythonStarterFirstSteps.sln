@@ -13,6 +13,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Functions", "Functions\Func
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lists", "Lists\Lists.pyproj", "{1E35D142-EE87-44AB-9B7C-85B00351DFA9}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonOOP", "PythonOOP\PythonOOP.pyproj", "{D419BCEA-CA65-4D05-A481-EE592B96DB24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,8 @@ Global
 		{BC393842-709B-42B4-A3CB-CD675560D772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E35D142-EE87-44AB-9B7C-85B00351DFA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1E35D142-EE87-44AB-9B7C-85B00351DFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D419BCEA-CA65-4D05-A481-EE592B96DB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D419BCEA-CA65-4D05-A481-EE592B96DB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d419bcea-ca65-4d05-a481-ee592b96db24</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ClassMethod.py</StartupFile>
+    <StartupFile>PythonOOP\ClassMethod.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,16 +21,36 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="ClassMethod.py">
+    <Compile Include="ConditionalOperators\ConditionalOperations.py" />
+    <Compile Include="Functions\Functions.py" />
+    <Compile Include="Functions\inner_functions.py" />
+    <Compile Include="Lists\Lists.py" />
+    <Compile Include="LoopStatements\For.py" />
+    <Compile Include="LoopStatements\While.py" />
+    <Compile Include="LoopStatements\While_else.py" />
+    <Compile Include="PythonOOP\ClassMethod.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="ClassPerson.py">
+    <Compile Include="PythonOOP\ClassPerson.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="DecoratorsStatic.py">
+    <Compile Include="PythonOOP\DecoratorsStatic.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="PythonOOP.py" />
+    <Compile Include="PythonOOP\PythonOOP.py" />
+    <Compile Include="VariablesDataTypes\arithmatic_operations.py" />
+    <Compile Include="VariablesDataTypes\data_types.py" />
+    <Compile Include="VariablesDataTypes\dynamic_typing.py" />
+    <Compile Include="VariablesDataTypes\print_input_exampl.py" />
+    <Compile Include="VariablesDataTypes\working_with_strings.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="LoopStatements\" />
+    <Folder Include="C:\Users\Tigran\Source\Repos\Python-Starter\PythonStarterFirstSteps\PythonOOP\Lists\" />
+    <Folder Include="Functions\" />
+    <Folder Include="ConditionalOperators\" />
+    <Folder Include="VariablesDataTypes\" />
+    <Folder Include="PythonOOP\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

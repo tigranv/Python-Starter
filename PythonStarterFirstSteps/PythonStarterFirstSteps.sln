@@ -3,16 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonVariablesAndDataTypes", "PythonVariablesAndDataTypes\PythonVariablesAndDataTypes.pyproj", "{83A87982-57FB-45CA-A221-D257DB3E3744}"
-EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ConditionalOperations", "ConditionalOperations\ConditionalOperations.pyproj", "{08A5CC4D-B39D-463C-9C37-B0A6891FC1C9}"
-EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LoopStatements", "LoopStatements\LoopStatements.pyproj", "{30C21D49-1D7C-4DAD-B5D5-C89D5387D3CA}"
-EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Functions", "Functions\Functions.pyproj", "{BC393842-709B-42B4-A3CB-CD675560D772}"
-EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lists", "Lists\Lists.pyproj", "{1E35D142-EE87-44AB-9B7C-85B00351DFA9}"
-EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonOOP", "PythonOOP\PythonOOP.pyproj", "{D419BCEA-CA65-4D05-A481-EE592B96DB24}"
 EndProject
 Global
@@ -21,16 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{83A87982-57FB-45CA-A221-D257DB3E3744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83A87982-57FB-45CA-A221-D257DB3E3744}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{08A5CC4D-B39D-463C-9C37-B0A6891FC1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08A5CC4D-B39D-463C-9C37-B0A6891FC1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30C21D49-1D7C-4DAD-B5D5-C89D5387D3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30C21D49-1D7C-4DAD-B5D5-C89D5387D3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC393842-709B-42B4-A3CB-CD675560D772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC393842-709B-42B4-A3CB-CD675560D772}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E35D142-EE87-44AB-9B7C-85B00351DFA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E35D142-EE87-44AB-9B7C-85B00351DFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D419BCEA-CA65-4D05-A481-EE592B96DB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D419BCEA-CA65-4D05-A481-EE592B96DB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection

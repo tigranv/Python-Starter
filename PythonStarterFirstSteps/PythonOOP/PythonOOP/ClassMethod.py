@@ -30,6 +30,9 @@ def main():
     second_circle = Circle.from_rectangle(rectangle)
     print(second_circle)
 
+    second_circle2 = Circle.from_rectangle(rectangle)
+    
+
 
 main()
 

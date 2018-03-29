@@ -45,6 +45,7 @@
     <Compile Include="VariablesDataTypes\working_with_strings.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Lists\" />
     <Folder Include="LoopStatements\" />
     <Folder Include="C:\Users\Tigran\Source\Repos\Python-Starter\PythonStarterFirstSteps\PythonOOP\Lists\" />
     <Folder Include="Functions\" />
